@@ -1,4 +1,4 @@
-# Seu primeiro código: "Olá, mundo!"
+# Seu primeiro código: "Olá, mundo!" via Python
 
 Usar no Google Colab.
 
